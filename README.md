@@ -19,7 +19,7 @@ Trending topic: **AI Code Reviewer**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/cagricoskun/megaaitool.git
+git clone https://github.com/xyzcardiff/megaaitool.git
 cd megaaitool
 pip install -r requirements.txt
 ```
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-02-18*
+*Date: 2026-03-18*
