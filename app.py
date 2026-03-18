@@ -15,7 +15,7 @@ def home():
         'app': 'MegaAITool',
         'description': 'Automated code review with AI suggestions',
         'status': 'running',
-        'built_at': '2026-02-18 09:00:01'
+        'built_at': '2026-03-18 09:00:25'
     })
 
 @app.route('/api/trend')
